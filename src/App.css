@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.formatlinks a {
+  text-decoration: none;
+}
+.formatlinks a:hover {
+  color: orange;
+}
